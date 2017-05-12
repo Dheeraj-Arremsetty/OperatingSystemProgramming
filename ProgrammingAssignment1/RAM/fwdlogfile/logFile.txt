@@ -1,0 +1,4 @@
+./buggy_code: 1488060977 : Error: nValue = 1111  - Number is not an even number
+./buggy_code: 1488060977 : Error: nValue = 1111  - Number is not an even number
+./buggy_code: 1488060977 : Error: nValue = 1111  - Division by zero
+./buggy_code: 1488060977 : Error: nValue = 1111  - Division by zero

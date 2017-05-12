@@ -1,0 +1,12 @@
+
+output: buggy_code.o log.o
+	g++ buggy_code.o log.o -o output
+	
+buggy_code.o: buggy_code.c
+	g++ -c buggy_code.c
+	
+log.o: log.c log.h
+	g++ -c log.c
+	
+clean:
+	rm *.o output

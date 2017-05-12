@@ -1,0 +1,26 @@
+./buggy_code: 1488917245: : Error: :nValue = 37 - Unknown error: 512 
+./buggy_code: 1488917245: : Error: :nValue = 37 - Unknown error: 512 
+./debugger: 1488917245: : Error: :nValue = 37 - No such file or directory 
+./debugger: 1488917245: : Error: :nValue = 37 - No such file or directory 
+./debugger: 1488917245: : Error: :nValue = 37 - No such file or directory 
+./debugger: 1488917245: : Error: :nValue = 37 - No dogs detected 
+./debugger: 1488917245: : Error: :nValue = 37 - No dogs detected 
+./debugger: 1488917245: : Error: :nValue = 37 - ls 
+./debugger: 1488917245: : Error: :nValue = 37 - cat abc 
+./debugger: 1488917245: : Error: :nValue = 37 - P == NP 
+./debugger: 1488917269: : Error: :nValue = 37 - No such file or directory 
+./debugger: 1488917269: : Error: :nValue = 37 - No such file or directory 
+./debugger: 1488917269: : Error: :nValue = 37 - No such file or directory 
+./debugger: 1488917269: : Error: :nValue = 37 - No dogs detected 
+./debugger: 1488917269: : Error: :nValue = 37 - No dogs detected 
+./debugger: 1488917269: : Error: :nValue = 37 - ls 
+./debugger: 1488917269: : Error: :nValue = 37 - cat abc 
+./debugger: 1488917269: : Error: :nValue = 37 - P == NP 
+./debugger: 1488920192: : Error: :nValue = 37 - No such file or directory 
+./debugger: 1488920192: : Error: :nValue = 37 - No such file or directory 
+./debugger: 1488920192: : Error: :nValue = 37 - No such file or directory 
+./debugger: 1488920192: : Error: :nValue = 37 - No dogs detected 
+./debugger: 1488920192: : Error: :nValue = 37 - No dogs detected 
+./debugger: 1488920192: : Error: :nValue = 37 - ls 
+./debugger: 1488920192: : Error: :nValue = 37 - cat abc 
+./debugger: 1488920192: : Error: :nValue = 37 - P == NP 

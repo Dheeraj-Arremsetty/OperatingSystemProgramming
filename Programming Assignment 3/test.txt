@@ -1,0 +1,16 @@
+Master: Child 3567 is terminating at my time 0.125000000 because it reached 1.375000000 in slave
+Master: Child 3568 is terminating at my time 0.250000000 because it reached 1.500000000 in slave
+Master: Child 3569 is terminating at my time 0.375000000 because it reached 1.500000000 in slave
+Master: Child 3570 is terminating at my time 0.500000000 because it reached 1.750000000 in slave
+Master: Child 3571 is terminating at my time 0.625000000 because it reached 1.875000000 in slave
+Master: Child 3572 is terminating at my time 0.750000000 because it reached 2.0 in slave
+Master: Child 3573 is terminating at my time 0.875000000 because it reached 2.0 in slave
+Master: Child 3574 is terminating at my time 1.0 because it reached 2.0 in slave
+Master: Child 3575 is terminating at my time 1.125000000 because it reached 2.0 in slave
+Master: Child 3576 is terminating at my time 1.250000000 because it reached 2.0 in slave
+Master: Child 3577 is terminating at my time 1.375000000 because it reached 0.250000000 in slave
+Master: Child 3578 is terminating at my time 1.500000000 because it reached 0.250000000 in slave
+Master: Child 3579 is terminating at my time 1.625000000 because it reached 0.250000000 in slave
+Master: Child 3580 is terminating at my time 1.750000000 because it reached 0.250000000 in slave
+Master: Child 3581 is terminating at my time 1.875000000 because it reached 0.500000000 in slave
+Master: Child 3582 is terminating at my time 2.0 because it reached 0.625000000 in slave

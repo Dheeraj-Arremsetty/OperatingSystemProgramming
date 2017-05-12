@@ -1,0 +1,20 @@
+./buggy_code: 1487555637: : Error: :nValue = 111 - Unknown error: 512 
+./buggy_code: 1487555637: : Error: :nValue = 111 - Unknown error: 512 
+./debugger: 1487555637: : Error: :nValue = 111 - No such file or directory 
+./debugger: 1487555637: : Error: :nValue = 111 - No such file or directory 
+./debugger: 1487555637: : Error: :nValue = 111 - No such file or directory 
+./debugger: 1487555637: : Error: :nValue = 111 - No dogs detected 
+./debugger: 1487555637: : Error: :nValue = 111 - No dogs detected 
+./debugger: 1487555637: : Error: :nValue = 111 - ls 
+./debugger: 1487555637: : Error: :nValue = 111 - cat abc 
+./debugger: 1487555637: : Error: :nValue = 111 - P == NP 
+./buggy_code: 1487555649: : Error: :nValue = 111 - Unknown error: 512 
+./buggy_code: 1487555649: : Error: :nValue = 111 - Unknown error: 512 
+./debugger: 1487555649: : Error: :nValue = 111 - No such file or directory 
+./debugger: 1487555649: : Error: :nValue = 111 - No such file or directory 
+./debugger: 1487555649: : Error: :nValue = 111 - No such file or directory 
+./debugger: 1487555649: : Error: :nValue = 111 - No dogs detected 
+./debugger: 1487555649: : Error: :nValue = 111 - No dogs detected 
+./debugger: 1487555649: : Error: :nValue = 111 - ls 
+./debugger: 1487555649: : Error: :nValue = 111 - cat abc 
+./debugger: 1487555649: : Error: :nValue = 111 - P == NP 

@@ -1,0 +1,18 @@
+./debugger:512: Error: :nValue = 100 - Unknown error: 512<<>>./testBinary
+
+./debugger:0: Error: :nValue = 100 - Undefined error: 0<<>>ls
+
+./debugger:512: Error: :nValue = 100 - Unknown error: 512<<>>./testBinary
+
+./debugger:0: Error: :nValue = 100 - Undefined error: 0<<>>ls
+
+./debugger:512: Error: :nValue = 100 - Unknown error: 512<<>>./testBinary
+
+./debugger:0: Error: :nValue = 100 - Undefined error: 0<<>>ls
+
+./debugger:512: Error: :nValue = 100 - Unknown error: 512<<>>./testBinary
+
+./debugger:0: Error: :nValue = 100 - Undefined error: 0<<>>ls
+
+./debugger:256: Error: :nValue = 100 - Unknown error: 256<<>>cat abc
+

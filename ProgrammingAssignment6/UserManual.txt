@@ -1,0 +1,77 @@
+Programming Assignment 6
+
+Programming Language used: 
+Python 2.7
+
+How to run the program:
+Running code using python interpreter.
+
+Using below command on terminal
+	$ python memoryMng.py
+
+Expected output:
+Performing FIFO
+Page Request [13, 9, 10, 3, 8, 3, 14, 11, 5, 14, 12, 6, 10, 8, 14, 13]
+Page request  13  =>  [13] 
+Page request  09  =>  [13, 9] 
+Page request  10  =>  [13, 9, 10] 
+Page request  03  =>  [13, 9, 10, 3] 
+Page request  08  =>  [13, 9, 10, 3, 8] 
+Page request  03  =>  [13, 9, 10, 3, 8] 
+Page request  14  =>  [9, 10, 3, 8, 14]    ---->PageFault
+Page request  11  =>  [10, 3, 8, 14, 11]    ---->PageFault
+Page request  05  =>  [3, 8, 14, 11, 5]    ---->PageFault
+Page request  14  =>  [3, 8, 14, 11, 5] 
+Page request  12  =>  [8, 14, 11, 5, 12]    ---->PageFault
+Page request  06  =>  [14, 11, 5, 12, 6]    ---->PageFault
+Page request  10  =>  [11, 5, 12, 6, 10]    ---->PageFault
+Page request  08  =>  [5, 12, 6, 10, 8]    ---->PageFault
+Page request  14  =>  [12, 6, 10, 8, 14]    ---->PageFault
+Page request  13  =>  [6, 10, 8, 14, 13]    ---->PageFault
+Total number of page faults in FIFO =  9
+
+
+
+Performing LRU
+Page Request [13, 9, 10, 3, 8, 3, 14, 11, 5, 14, 12, 6, 10, 8, 14, 13]
+Page request  13  =>  [13] 
+Page request  09  =>  [13, 9] 
+Page request  10  =>  [13, 9, 10] 
+Page request  03  =>  [13, 9, 10, 3] 
+Page request  08  =>  [13, 9, 10, 3, 8] 
+Page request  03  =>  [13, 9, 10, 3, 8] 
+Page request  14  =>  [9, 10, 3, 8, 14]    ---->PageFault
+Page request  11  =>  [10, 3, 8, 14, 11]    ---->PageFault
+Page request  05  =>  [3, 8, 14, 11, 5]    ---->PageFault
+Page request  14  =>  [3, 8, 14, 11, 5] 
+Page request  12  =>  [3, 14, 11, 5, 12]    ---->PageFault
+Page request  06  =>  [3, 14, 5, 12, 6]    ---->PageFault
+Page request  10  =>  [3, 14, 12, 6, 10]    ---->PageFault
+Page request  08  =>  [3, 14, 6, 10, 8]    ---->PageFault
+Page request  14  =>  [3, 14, 6, 10, 8] 
+Page request  13  =>  [3, 14, 10, 8, 13]    ---->PageFault
+Total number of page faults in LRU =  8
+
+
+
+Performing Optimal Policy
+Page Request [13, 9, 10, 3, 8, 3, 14, 11, 5, 14, 12, 6, 10, 8, 14, 13]
+Page request  13  =>  [13] 
+Page request  09  =>  [13, 9] 
+Page request  10  =>  [13, 9, 10] 
+Page request  03  =>  [13, 9, 10, 3] 
+Page request  08  =>  [13, 9, 10, 3, 8] 
+Page request  03  =>  [13, 9, 10, 3, 8] 
+Page request  14  =>  [13, 9, 10, 8, 14]    ---->PageFault
+Page request  11  =>  [13, 10, 8, 14, 11]    ---->PageFault
+Page request  05  =>  [13, 10, 8, 14, 5]    ---->PageFault
+Page request  14  =>  [13, 10, 8, 14, 5] 
+Page request  12  =>  [13, 10, 8, 14, 12]    ---->PageFault
+Page request  06  =>  [13, 10, 8, 14, 6]    ---->PageFault
+Page request  10  =>  [13, 10, 8, 14, 6] 
+Page request  08  =>  [13, 10, 8, 14, 6] 
+Page request  14  =>  [13, 10, 8, 14, 6] 
+Page request  13  =>  [13, 10, 8, 14, 6] 
+Total number of page faults in OPT =  5
+
+

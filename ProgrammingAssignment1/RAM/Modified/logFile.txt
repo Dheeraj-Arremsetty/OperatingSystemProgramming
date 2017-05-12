@@ -1,0 +1,8 @@
+./buggy_code: 1488073846 : Error: nValue = 37  - Number is not an even number
+./buggy_code: 1488073846 : Error: nValue = 37  - Number is not an even number
+./buggy_code: 1488073846 : Error: nValue = 37  - Division by zero
+./buggy_code: 1488073846 : Error: nValue = 37  - Division by zero
+./buggy_code: 1488073846 : Error: nValue = 37  - P == NP
+./buggy_code: 1488073846 : Error: nValue = 37  - P == NP
+./buggy_code: 1488073846 : Error: nValue = 37  - No dogs detected
+./buggy_code: 1488073846 : Error: nValue = 37  - No dogs detected
